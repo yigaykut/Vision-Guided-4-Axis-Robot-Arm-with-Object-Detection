@@ -3,7 +3,7 @@
 This repository contains the code for a 4-axis robotic arm that uses a local Qwen Vision-Language Model to calculate joint angles for grabbing objects and utilizes an ultrasonic distance sensor for close-range grip triggers.
 
 <p align="center">
-  <img src="arm.jpeg" alt="Arm Preview" width="600">
+  <img src="arm.jpeg" alt="Arm Preview" width="300">
 </p>
 
 ---
